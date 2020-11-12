@@ -1,0 +1,393 @@
+INFO  10:00:20 Application started. Press Ctrl+C to shut down.
+INFO  10:00:20 Application started. Press Ctrl+C to shut down.
+INFO  10:00:20 Hosting environment: Development
+INFO  10:00:20 Hosting environment: Development
+INFO  10:00:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:00:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:00:36  Http GET request AuditBenchmarkController
+INFO  10:00:36  Http GET request BenchmarkProvider
+INFO  10:00:36  Http GET request BenchmarkRepo
+INFO  10:00:48  Http GET request AuditBenchmarkController
+INFO  10:00:48  Http GET request BenchmarkProvider
+INFO  10:00:48  Http GET request BenchmarkRepo
+INFO  10:00:59  Http GET request AuditBenchmarkController
+INFO  10:00:59  Http GET request BenchmarkProvider
+INFO  10:00:59  Http GET request BenchmarkRepo
+INFO  10:02:05 Application started. Press Ctrl+C to shut down.
+INFO  10:02:05 Application started. Press Ctrl+C to shut down.
+INFO  10:02:05 Hosting environment: Development
+INFO  10:02:05 Hosting environment: Development
+INFO  10:02:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:02:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39 Application started. Press Ctrl+C to shut down.
+INFO  10:09:39 Application started. Press Ctrl+C to shut down.
+INFO  10:09:39 Hosting environment: Development
+INFO  10:09:39 Hosting environment: Development
+INFO  10:09:39 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39  Http GET request AuditBenchmarkController
+INFO  10:09:39  Http GET request BenchmarkProvider
+INFO  10:09:39  Http GET request BenchmarkRepo
+INFO  10:20:13 Application started. Press Ctrl+C to shut down.
+INFO  10:20:13 Application started. Press Ctrl+C to shut down.
+INFO  10:20:13 Hosting environment: Development
+INFO  10:20:13 Hosting environment: Development
+INFO  10:20:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:20:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:20:14  Http GET request AuditBenchmarkController
+INFO  10:20:14  Http GET request BenchmarkProvider
+INFO  10:20:14  Http GET request BenchmarkRepo
+INFO  10:20:35  Http GET request AuditBenchmarkController
+INFO  10:20:35  Http GET request BenchmarkProvider
+INFO  10:20:35  Http GET request BenchmarkRepo
+INFO  10:20:36  Http GET request AuditBenchmarkController
+INFO  10:20:36  Http GET request BenchmarkProvider
+INFO  10:20:36  Http GET request BenchmarkRepo
+INFO  10:20:38  Http GET request AuditBenchmarkController
+INFO  10:20:38  Http GET request BenchmarkProvider
+INFO  10:20:38  Http GET request BenchmarkRepo
+INFO  10:21:23  Http GET request AuditBenchmarkController
+INFO  10:21:23  Http GET request BenchmarkProvider
+INFO  10:21:23  Http GET request BenchmarkRepo
+INFO  10:21:32  Http GET request AuditBenchmarkController
+INFO  10:21:32  Http GET request BenchmarkProvider
+INFO  10:21:32  Http GET request BenchmarkRepo
+INFO  07:24:08 Application started. Press Ctrl+C to shut down.
+INFO  07:24:08 Application started. Press Ctrl+C to shut down.
+INFO  07:24:08 Hosting environment: Development
+INFO  07:24:08 Hosting environment: Development
+INFO  07:24:08 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  07:24:08 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  07:24:09  Http GET request AuditBenchmarkController
+INFO  07:24:09  Http GET request BenchmarkProvider
+INFO  07:24:09  Http GET request BenchmarkRepo
+INFO  07:35:08 Application started. Press Ctrl+C to shut down.
+INFO  07:35:08 Application started. Press Ctrl+C to shut down.
+INFO  07:35:08 Hosting environment: Development
+INFO  07:35:08 Hosting environment: Development
+INFO  07:35:08 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  07:35:08 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  07:35:08  Http GET request AuditBenchmarkController
+INFO  07:35:08  Http GET request BenchmarkProvider
+INFO  07:35:08  Http GET request BenchmarkRepo
+INFO  07:37:05  Http GET request AuditBenchmarkController
+INFO  07:37:05  Http GET request BenchmarkProvider
+INFO  07:37:05  Http GET request BenchmarkRepo
+INFO  07:39:36  Http GET request AuditBenchmarkController
+INFO  07:39:36  Http GET request BenchmarkProvider
+INFO  07:39:36  Http GET request BenchmarkRepo
+INFO  08:11:11 Application started. Press Ctrl+C to shut down.
+INFO  08:11:11 Application started. Press Ctrl+C to shut down.
+INFO  08:11:11 Hosting environment: Development
+INFO  08:11:11 Hosting environment: Development
+INFO  08:11:11 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  08:11:11 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  08:11:11  Http GET request AuditBenchmarkController
+INFO  08:11:11  Http GET request BenchmarkProvider
+INFO  08:11:11  Http GET request BenchmarkRepo
+INFO  08:13:54  Http GET request AuditBenchmarkController
+INFO  08:13:54  Http GET request BenchmarkProvider
+INFO  08:13:54  Http GET request BenchmarkRepo
+INFO  08:39:49 Application started. Press Ctrl+C to shut down.
+INFO  08:39:49 Application started. Press Ctrl+C to shut down.
+INFO  08:39:49 Hosting environment: Development
+INFO  08:39:49 Hosting environment: Development
+INFO  08:39:49 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  08:39:49 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  08:39:49  Http GET request AuditBenchmarkController
+INFO  08:39:49  Http GET request BenchmarkProvider
+INFO  08:39:49  Http GET request BenchmarkRepo
+INFO  08:42:07  Http GET request AuditBenchmarkController
+INFO  08:42:07  Http GET request BenchmarkProvider
+INFO  08:42:07  Http GET request BenchmarkRepo
+INFO  09:12:53 Application started. Press Ctrl+C to shut down.
+INFO  09:12:53 Application started. Press Ctrl+C to shut down.
+INFO  09:12:53 Hosting environment: Development
+INFO  09:12:53 Hosting environment: Development
+INFO  09:12:53 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  09:12:53 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  09:12:53  Http GET request AuditBenchmarkController
+INFO  09:12:53  Http GET request BenchmarkProvider
+INFO  09:12:53  Http GET request BenchmarkRepo
+INFO  09:15:20  Http GET request AuditBenchmarkController
+INFO  09:15:20  Http GET request BenchmarkProvider
+INFO  09:15:20  Http GET request BenchmarkRepo
+INFO  09:16:26  Http GET request AuditBenchmarkController
+INFO  09:16:26  Http GET request BenchmarkProvider
+INFO  09:16:26  Http GET request BenchmarkRepo
+INFO  09:24:59 Application started. Press Ctrl+C to shut down.
+INFO  09:25:00 Application started. Press Ctrl+C to shut down.
+INFO  09:25:00 Hosting environment: Development
+INFO  09:25:00 Hosting environment: Development
+INFO  09:25:00 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  09:25:00 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  09:25:00  Http GET request AuditBenchmarkController
+INFO  09:25:00  Http GET request BenchmarkProvider
+INFO  09:25:00  Http GET request BenchmarkRepo
+INFO  09:29:19  Http GET request AuditBenchmarkController
+INFO  09:29:19  Http GET request BenchmarkProvider
+INFO  09:29:19  Http GET request BenchmarkRepo
+INFO  09:29:26  Http GET request AuditBenchmarkController
+INFO  09:29:26  Http GET request BenchmarkProvider
+INFO  09:29:26  Http GET request BenchmarkRepo
+INFO  09:29:30  Http GET request AuditBenchmarkController
+INFO  09:29:30  Http GET request BenchmarkProvider
+INFO  09:29:30  Http GET request BenchmarkRepo
+INFO  10:21:29 Application started. Press Ctrl+C to shut down.
+INFO  10:21:29 Application started. Press Ctrl+C to shut down.
+INFO  10:21:29 Hosting environment: Development
+INFO  10:21:29 Hosting environment: Development
+INFO  10:21:29 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:21:29 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:21:29  Http GET request AuditBenchmarkController
+INFO  10:21:29  Http GET request BenchmarkProvider
+INFO  10:21:29  Http GET request BenchmarkRepo
+INFO  10:23:39  Http GET request AuditBenchmarkController
+INFO  10:23:39  Http GET request BenchmarkProvider
+INFO  10:23:39  Http GET request BenchmarkRepo
+INFO  10:24:33  Http GET request AuditBenchmarkController
+INFO  10:24:33  Http GET request BenchmarkProvider
+INFO  10:24:33  Http GET request BenchmarkRepo
+INFO  10:24:51  Http GET request AuditBenchmarkController
+INFO  10:24:51  Http GET request BenchmarkProvider
+INFO  10:24:51  Http GET request BenchmarkRepo
+INFO  10:25:41  Http GET request AuditBenchmarkController
+INFO  10:25:41  Http GET request BenchmarkProvider
+INFO  10:25:41  Http GET request BenchmarkRepo
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:35:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:35:05  Http GET request AuditBenchmarkController
+INFO  10:35:05  Http GET request BenchmarkProvider
+INFO  10:35:05  Http GET request BenchmarkRepo
+INFO  10:37:47  Http GET request AuditBenchmarkController
+INFO  10:37:47  Http GET request BenchmarkProvider
+INFO  10:37:47  Http GET request BenchmarkRepo
+INFO  10:40:51  Http GET request AuditBenchmarkController
+INFO  10:40:51  Http GET request BenchmarkProvider
+INFO  10:40:51  Http GET request BenchmarkRepo
+INFO  10:43:55  Http GET request AuditBenchmarkController
+INFO  10:43:55  Http GET request BenchmarkProvider
+INFO  10:43:55  Http GET request BenchmarkRepo
+INFO  10:50:27 Application started. Press Ctrl+C to shut down.
+INFO  10:50:27 Application started. Press Ctrl+C to shut down.
+INFO  10:50:27 Hosting environment: Development
+INFO  10:50:27 Hosting environment: Development
+INFO  10:50:27 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:50:27 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:50:27  Http GET request AuditBenchmarkController
+INFO  10:50:27  Http GET request BenchmarkProvider
+INFO  10:50:27  Http GET request BenchmarkRepo
+INFO  10:52:05  Http GET request AuditBenchmarkController
+INFO  10:52:05  Http GET request BenchmarkProvider
+INFO  10:52:05  Http GET request BenchmarkRepo
+INFO  10:52:51  Http GET request AuditBenchmarkController
+INFO  10:52:51  Http GET request BenchmarkProvider
+INFO  10:52:51  Http GET request BenchmarkRepo
+INFO  10:56:11  Http GET request AuditBenchmarkController
+INFO  10:56:11  Http GET request BenchmarkProvider
+INFO  10:56:11  Http GET request BenchmarkRepo
+INFO  10:59:17  Http GET request AuditBenchmarkController
+INFO  10:59:17  Http GET request BenchmarkProvider
+INFO  10:59:17  Http GET request BenchmarkRepo
+INFO  10:59:46  Http GET request AuditBenchmarkController
+INFO  10:59:46  Http GET request BenchmarkProvider
+INFO  10:59:46  Http GET request BenchmarkRepo
+INFO  11:01:11  Http GET request AuditBenchmarkController
+INFO  11:01:11  Http GET request BenchmarkProvider
+INFO  11:01:11  Http GET request BenchmarkRepo
+INFO  09:25:19 Application started. Press Ctrl+C to shut down.
+INFO  09:25:20 Application started. Press Ctrl+C to shut down.
+INFO  09:25:20 Hosting environment: Development
+INFO  09:25:20 Hosting environment: Development
+INFO  09:25:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  09:25:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  09:25:23  Http GET request AuditBenchmarkController
+INFO  09:25:23  Http GET request BenchmarkProvider
+INFO  09:25:23  Http GET request BenchmarkRepo
+INFO  09:29:50  Http GET request AuditBenchmarkController
+INFO  09:29:50  Http GET request BenchmarkProvider
+INFO  09:29:50  Http GET request BenchmarkRepo
+INFO  09:30:38  Http GET request AuditBenchmarkController
+INFO  09:30:38  Http GET request BenchmarkProvider
+INFO  09:30:38  Http GET request BenchmarkRepo
+INFO  09:32:26  Http GET request AuditBenchmarkController
+INFO  09:32:26  Http GET request BenchmarkProvider
+INFO  09:32:26  Http GET request BenchmarkRepo
+INFO  04:44:24 Application started. Press Ctrl+C to shut down.
+INFO  04:44:25 Application started. Press Ctrl+C to shut down.
+INFO  04:44:25 Hosting environment: Development
+INFO  04:44:25 Hosting environment: Development
+INFO  04:44:25 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  04:44:25 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  04:44:25  Http GET request AuditBenchmarkController
+INFO  04:44:25  Http GET request BenchmarkProvider
+INFO  04:44:25  Http GET request BenchmarkRepo
+INFO  04:48:39  Http GET request AuditBenchmarkController
+INFO  04:48:39  Http GET request BenchmarkProvider
+INFO  04:48:39  Http GET request BenchmarkRepo
+INFO  08:22:22 Application started. Press Ctrl+C to shut down.
+INFO  08:22:22 Application started. Press Ctrl+C to shut down.
+INFO  08:22:22 Hosting environment: Development
+INFO  08:22:22 Hosting environment: Development
+INFO  08:22:22 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  08:22:22 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  08:22:22  Http GET request AuditBenchmarkController
+INFO  08:22:22  Http GET request BenchmarkProvider
+INFO  08:22:22  Http GET request BenchmarkRepo
+INFO  08:25:15  Http GET request AuditBenchmarkController
+INFO  08:25:15  Http GET request BenchmarkProvider
+INFO  08:25:15  Http GET request BenchmarkRepo
+INFO  08:31:04  Http GET request AuditBenchmarkController
+INFO  08:31:04  Http GET request BenchmarkProvider
+INFO  08:31:04  Http GET request BenchmarkRepo
+INFO  12:48:25 Application started. Press Ctrl+C to shut down.
+INFO  12:48:26 Application started. Press Ctrl+C to shut down.
+INFO  12:48:26 Hosting environment: Development
+INFO  12:48:26 Hosting environment: Development
+INFO  12:48:26 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  12:48:26 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  12:48:26  Http GET request AuditBenchmarkController
+INFO  12:48:26  Http GET request BenchmarkProvider
+INFO  12:48:26  Http GET request BenchmarkRepo
+INFO  12:53:28  Http GET request AuditBenchmarkController
+INFO  12:53:28  Http GET request BenchmarkProvider
+INFO  12:53:28  Http GET request BenchmarkRepo
+INFO  12:57:58  Http GET request AuditBenchmarkController
+INFO  12:57:58  Http GET request BenchmarkProvider
+INFO  12:57:58  Http GET request BenchmarkRepo
+INFO  02:31:54 Application started. Press Ctrl+C to shut down.
+INFO  02:31:54 Application started. Press Ctrl+C to shut down.
+INFO  02:31:54 Hosting environment: Development
+INFO  02:31:54 Hosting environment: Development
+INFO  02:31:54 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  02:31:54 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  02:31:54  Http GET request AuditBenchmarkController
+INFO  02:31:54  Http GET request BenchmarkProvider
+INFO  02:31:54  Http GET request BenchmarkRepo
+INFO  02:34:11  Http GET request AuditBenchmarkController
+INFO  02:34:11  Http GET request BenchmarkProvider
+INFO  02:34:11  Http GET request BenchmarkRepo
+INFO  02:37:44 Application started. Press Ctrl+C to shut down.
+INFO  02:37:44 Application started. Press Ctrl+C to shut down.
+INFO  02:37:44 Hosting environment: Development
+INFO  02:37:44 Hosting environment: Development
+INFO  02:37:44 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  02:37:44 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  02:37:44  Http GET request AuditBenchmarkController
+INFO  02:37:44  Http GET request BenchmarkProvider
+INFO  02:37:44  Http GET request BenchmarkRepo
+INFO  02:40:40  Http GET request AuditBenchmarkController
+INFO  02:40:40  Http GET request BenchmarkProvider
+INFO  02:40:40  Http GET request BenchmarkRepo
+INFO  03:33:56 Application started. Press Ctrl+C to shut down.
+INFO  03:33:56 Application started. Press Ctrl+C to shut down.
+INFO  03:33:56 Hosting environment: Development
+INFO  03:33:56 Hosting environment: Development
+INFO  03:33:56 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  03:33:56 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  03:33:57  Http GET request AuditBenchmarkController
+INFO  03:33:57  Http GET request BenchmarkProvider
+INFO  03:33:57  Http GET request BenchmarkRepo
+INFO  03:39:29  Http GET request AuditBenchmarkController
+INFO  03:39:29  Http GET request BenchmarkProvider
+INFO  03:39:29  Http GET request BenchmarkRepo
+INFO  03:40:36  Http GET request AuditBenchmarkController
+INFO  03:40:36  Http GET request BenchmarkProvider
+INFO  03:40:36  Http GET request BenchmarkRepo
+INFO  12:58:03 Application started. Press Ctrl+C to shut down.
+INFO  12:58:03 Application started. Press Ctrl+C to shut down.
+INFO  12:58:03 Hosting environment: Development
+INFO  12:58:03 Hosting environment: Development
+INFO  12:58:03 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  12:58:03 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  12:58:04  Http GET request AuditBenchmarkController
+INFO  12:58:04  Http GET request BenchmarkProvider
+INFO  12:58:04  Http GET request BenchmarkRepo
+INFO  01:07:21  Http GET request AuditBenchmarkController
+INFO  01:07:21  Http GET request BenchmarkProvider
+INFO  01:07:21  Http GET request BenchmarkRepo
+INFO  01:11:07  Http GET request AuditBenchmarkController
+INFO  01:11:07  Http GET request BenchmarkProvider
+INFO  01:11:07  Http GET request BenchmarkRepo
+INFO  01:11:28  Http GET request AuditBenchmarkController
+INFO  01:11:28  Http GET request BenchmarkProvider
+INFO  01:11:28  Http GET request BenchmarkRepo
+INFO  03:12:13 Application started. Press Ctrl+C to shut down.
+INFO  03:12:13 Application started. Press Ctrl+C to shut down.
+INFO  03:12:13 Hosting environment: Development
+INFO  03:12:13 Hosting environment: Development
+INFO  03:12:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  03:12:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  03:12:13  Http GET request AuditBenchmarkController
+INFO  03:12:13  Http GET request BenchmarkProvider
+INFO  03:12:13  Http GET request BenchmarkRepo
+INFO  05:26:52 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  05:26:54  Http GET request AuditBenchmarkController
+INFO  05:26:54  Http GET request BenchmarkProvider
+INFO  05:26:54  Http GET request BenchmarkRepo
+INFO  05:53:20 Application started. Press Ctrl+C to shut down.
+INFO  05:53:20 Application started. Press Ctrl+C to shut down.
+INFO  05:53:20 Hosting environment: Development
+INFO  05:53:20 Hosting environment: Development
+INFO  05:53:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  05:53:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  05:53:20  Http GET request AuditBenchmarkController
+INFO  05:53:20  Http GET request BenchmarkProvider
+INFO  05:53:20  Http GET request BenchmarkRepo
+INFO  06:17:18 Application started. Press Ctrl+C to shut down.
+INFO  06:17:18 Application started. Press Ctrl+C to shut down.
+INFO  06:17:18 Hosting environment: Development
+INFO  06:17:18 Hosting environment: Development
+INFO  06:17:18 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  06:17:18 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  06:17:18  Http GET request AuditBenchmarkController
+INFO  06:17:18  Http GET request BenchmarkProvider
+INFO  06:17:18  Http GET request BenchmarkRepo
+INFO  06:19:05  Http GET request AuditBenchmarkController
+INFO  06:19:05  Http GET request BenchmarkProvider
+INFO  06:19:05  Http GET request BenchmarkRepo
+INFO  06:34:15 Application started. Press Ctrl+C to shut down.
+INFO  06:34:15 Application started. Press Ctrl+C to shut down.
+INFO  06:34:15 Hosting environment: Development
+INFO  06:34:15 Hosting environment: Development
+INFO  06:34:15 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  06:34:15 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  06:34:15  Http GET request AuditBenchmarkController
+INFO  06:34:15  Http GET request BenchmarkProvider
+INFO  06:34:15  Http GET request BenchmarkRepo
+INFO  06:36:52  Http GET request AuditBenchmarkController
+INFO  06:36:52  Http GET request BenchmarkProvider
+INFO  06:36:52  Http GET request BenchmarkRepo
+INFO  01:03:45 Application started. Press Ctrl+C to shut down.
+INFO  01:03:45 Application started. Press Ctrl+C to shut down.
+INFO  01:03:45 Hosting environment: Development
+INFO  01:03:45 Hosting environment: Development
+INFO  01:03:45 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  01:03:45 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  01:03:47  Http GET request AuditBenchmarkController
+INFO  01:03:47  Http GET request BenchmarkProvider
+INFO  01:03:47  Http GET request BenchmarkRepo
+INFO  01:08:34  Http GET request AuditBenchmarkController
+INFO  01:08:34  Http GET request BenchmarkProvider
+INFO  01:08:34  Http GET request BenchmarkRepo
+INFO  01:09:28  Http GET request AuditBenchmarkController
+INFO  01:09:28  Http GET request BenchmarkProvider
+INFO  01:09:28  Http GET request BenchmarkRepo
+INFO  11:29:29 Application started. Press Ctrl+C to shut down.
+INFO  11:29:29 Application started. Press Ctrl+C to shut down.
+INFO  11:29:29 Hosting environment: Development
+INFO  11:29:29 Hosting environment: Development
+INFO  11:29:29 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  11:29:29 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  11:29:30  Http GET request AuditBenchmarkController
+INFO  11:29:30  Http GET request BenchmarkProvider
+INFO  11:29:30  Http GET request BenchmarkRepo
